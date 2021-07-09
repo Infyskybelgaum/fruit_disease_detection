@@ -1,1 +1,0 @@
-# fruit_disease_detection
